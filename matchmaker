@@ -1,0 +1,4 @@
+#!/bin/sh
+$path = ${0%/*}
+shift
+love "$path" "$@"
