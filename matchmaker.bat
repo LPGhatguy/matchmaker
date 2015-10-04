@@ -1,1 +1,1 @@
-love %~dp0 %*
+@love %~dp0 %*
