@@ -6,7 +6,7 @@ The aim of Matchmaker is to implement a frontend to [LÖVE](//love2d.org) that c
 ## Usage
 Set up your configuration in `configuration.lua` -- eventually this will be filled in by `matchmaker --configure`. Simply put paths to your installed LÖVE binaries into this file.
 
-After configuring, `matchmaker [game]` should launch the given game using the correct vesrion of LÖVE.
+After configuring, `matchmaker [game]` should launch the given game using the correct version of LÖVE.
 
 See `matchmaker --help` for more information.
 
